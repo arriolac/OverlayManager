@@ -1,4 +1,7 @@
 OverlayManager
 ==============
 
-OverlayManager that returns a GeoPoint for long press gestures
+Customized mapview-overlay-manager (http://code.google.com/p/mapview-overlay-manager/) so OnOverlayGestureListener
+returns a GeoPoint for long press gesture events.
+
+
